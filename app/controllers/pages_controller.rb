@@ -6,4 +6,9 @@ class PagesController < ApplicationController
 	def contacts
 		
 	end
+
+	def new
+		
+		
+	end
 end
